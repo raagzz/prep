@@ -8,4 +8,4 @@ Notable features:
 
 The current workflow of the tool is as follows:
 
-![Workflow Graph](assets/graph.png)
+![Workflow Graph](graph.png)

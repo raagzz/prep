@@ -1,0 +1,11 @@
+streamlit
+streamlit-mermaid
+langgraph
+langchain_core
+tavily-python
+langchain_mistralai
+langchain_community
+markdown
+xhtml2pdf
+python-dotenv
+pydantic
